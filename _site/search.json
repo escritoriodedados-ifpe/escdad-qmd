@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Escritório de Dados do IFPE",
+    "section": "",
+    "text": "Inteligência institucional, transparência e inovação orientada por dados para apoiar a tomada de decisão no Instituto Federal de Pernambuco.\nExplorar Painéis de Dados Conheça o Escritório"
+  },
+  {
+    "objectID": "index.html#pilares-de-atuação",
+    "href": "index.html#pilares-de-atuação",
+    "title": "Escritório de Dados do IFPE",
+    "section": "Pilares de Atuação",
+    "text": "Pilares de Atuação\n\n\n\n📊 Painéis Institucionais\nIndicadores acadêmicos, orçamentários e de gestão organizados em visualizações interativas.\nAcessar painéis →\n\n\n\n\n🔍 Transparência e Governança\nPadronização, qualidade e acesso estratégico às bases de dados vinculadas à PRODIN/IFPE.\nVer estrutura →\n\n\n\n\n🚀 Projetos e Inovação\nIniciativas de ciência de dados, automação e estudos aplicados à realidade dos campi.\nVer projetos →"
+  },
+  {
+    "objectID": "paineis/ifpe-em-numeros.html",
+    "href": "paineis/ifpe-em-numeros.html",
+    "title": "Painel IFPE em Números",
+    "section": "",
+    "text": "Explore os dados interativos abaixo utilizando os filtros por campus, ano ou modalidade.\nAbrir em tela cheia ↗"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "paineis.html",
+    "href": "paineis.html",
+    "title": "Painéis de Dados Institucionais",
+    "section": "",
+    "text": "Painel IFPE em Números\n\n\n\nInstitucional\n\nIndicadores\n\nPNP\n\n\n\nIndicadores institucionais consolidados dos campi do Instituto Federal de Pernambuco na PNP.\n\n\n\n\n\n\nNov 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPainel Perfil do ingresso\n\n\n\nInstitucional\n\nestudantes\n\nperfil_social\n\n\n\nDados demograficos dos estudantes que ingressam no IFPE\n\n\n\n\n\n\nJun 20, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "paineis/perfil-ingresso.html",
+    "href": "paineis/perfil-ingresso.html",
+    "title": "ESCDAD | Escritório de Dados IFPE",
+    "section": "",
+    "text": "title: “Painel Perfil do ingresso” description: “Dados demograficos dos estudantes que ingressam no IFPE” categories: [Institucional, estudantes, perfil social] date: “2026-06-20” image: ../img/capa-ifpe-numeros.png page-layout: full toc: false —"
+  },
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre o ESCDAD",
+    "section": "",
+    "text": "Nos últimos anos, principalmente após a pandemia, tornou-se perceptível o aumento da demanda por dados institucionais integrados. Esse movimento foi impulsionado pelo avanço crescente das novas tecnologias em Big Data e análise de dados.\nNesse sentido, por iniciativa da Prodin, servidores que já trabalhavam com dados de maneira isolada foram convidados a se unir, formando o grupo atualmente denominado Escritório de Dados do IFPE. Ao reconhecer a importância dessa iniciativa, a instituição a tratou como o projeto estratégico “Implantar o Escritório de Dados”.\nDessa forma, o setor foi criado oficialmente por meio da Portaria IFPE nº 1.765, de 18 de dezembro de 2024, sendo constituído por uma coordenação, um setor de análise de dados e estatísticas e um setor de Tecnologia da Informação.\nSuas atribuições consistem em gerir todo o ciclo de dados institucionais do IFPE, desde a coleta e o controle de acesso legal até a criação de relatórios, indicadores e a manutenção do Plano de Dados Abertos. Além disso, o escritório visa fortalecer a cultura orientada por dados na instituição por meio de suporte técnico, capacitação de servidores, pesquisas e parcerias para apoiar a tomada de decisões e o desenvolvimento de políticas baseadas em evidências.\n\n\n\nJouberte\nLutemberg\nEveraldo\nPof. Paulo\nLenilton\n\n\n\n\n\nAlexsandro\nJuliana\n\n\n\n\nprodin@reitoria.ifpe.edu.br"
+  },
+  {
+    "objectID": "sobre.html#nossa-equipe-atual",
+    "href": "sobre.html#nossa-equipe-atual",
+    "title": "Sobre",
+    "section": "",
+    "text": "Jouberte\nLutemberg\nEveraldo\nPaulo\nLenilton"
+  },
+  {
+    "objectID": "sobre.html#quem-já-fez-historia-conosco",
+    "href": "sobre.html#quem-já-fez-historia-conosco",
+    "title": "Sobre",
+    "section": "",
+    "text": "Juliana"
+  },
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Novos projetos e estudos",
+    "section": "",
+    "text": "Catálogo de dados institucionais\n\n\n\nInstitucional\n\nconjunto-de-dados\n\ndicionário\n\n\n\nMapear e reunir informações sobre os dados da instituição, contendo os metadados dos nossos conjunto de dados.\n\n\n\n\n\n\nNov 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nRelatório modelo para pesquisas institucionais\n\n\n\nAvaliação\n\nInstitucional\n\nRelatórios\n\n\n\nDisponibilizar um modelo de relatório as pequisa tipo avaliações.\n\n\n\n\n\n\nNov 20, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projetos/relatorio-avaliacao.html",
+    "href": "projetos/relatorio-avaliacao.html",
+    "title": "Relatório modelo para pesquisas institucionais",
+    "section": "",
+    "text": "💡A ideia\n\n\n\n\n\n\nNote\n\n\n\nNa elaboração do relatório de avaliação institucional do PGD 2025, o qual foi desenvolvido na prataforma Rstudio a qual permite a conexão com os dados coletados por meio de formulário google e gerar relatório com estruturas pré definidas com gráficos e visualizações em formatos HTML ou PDF.\nAssim a area ou setor que utilizou um formulário de pesquisa eletrônica poderá gerar relatório com mais posibilidades de apresentações de gráficos e tabelas.\nacesse aqui o trabalho que inspirou a ideia."
+  },
+  {
+    "objectID": "eventos.html",
+    "href": "eventos.html",
+    "title": "eventos",
+    "section": "",
+    "text": "Em construção"
+  },
+  {
+    "objectID": "estrutura.html",
+    "href": "estrutura.html",
+    "title": "Estrutura",
+    "section": "",
+    "text": "A estrutura organizacional do ESCDAD foi pensado da seguinte forma: O Escritório poderá contar com servidores designados pela Reitoria e, quando necessário, com colaboradores externos mediante termos de colaboração técnica organizados nas seguintes setores:\nCoordenação do Escritório de Dados\nSetor de Dados e Estatística\nSetor de Tecnologia\nSetor de Governança de Dados e Segurança\nSetor de Pesquisa e Inovação"
+  },
+  {
+    "objectID": "contato.html",
+    "href": "contato.html",
+    "title": "Contatos",
+    "section": "",
+    "text": "Email\nprodin@reitoria.ifpe.edu.br escritoriodedados@reitoria.ifpe.edu.br\n\n\nTelefone\n\n2125-1679"
+  },
+  {
+    "objectID": "sobre.html#nossa-história-começa-assim",
+    "href": "sobre.html#nossa-história-começa-assim",
+    "title": "Sobre o ESCDAD",
+    "section": "",
+    "text": "Nos últimos anos, principalmente após a pandemia, tornou-se perceptível o aumento da demanda por dados institucionais integrados. Esse movimento foi impulsionado pelo avanço crescente das novas tecnologias em Big Data e análise de dados.\nNesse sentido, por iniciativa da Prodin, servidores que já trabalhavam com dados de maneira isolada foram convidados a se unir, formando o grupo atualmente denominado Escritório de Dados do IFPE. Ao reconhecer a importância dessa iniciativa, a instituição a tratou como o projeto estratégico “Implantar o Escritório de Dados”.\nDessa forma, o setor foi criado oficialmente por meio da Portaria IFPE nº 1.765, de 18 de dezembro de 2024, sendo constituído por uma coordenação, um setor de análise de dados e estatísticas e um setor de Tecnologia da Informação.\nSuas atribuições consistem em gerir todo o ciclo de dados institucionais do IFPE, desde a coleta e o controle de acesso legal até a criação de relatórios, indicadores e a manutenção do Plano de Dados Abertos. Além disso, o escritório visa fortalecer a cultura orientada por dados na instituição por meio de suporte técnico, capacitação de servidores, pesquisas e parcerias para apoiar a tomada de decisões e o desenvolvimento de políticas baseadas em evidências.\n\n\n\nJouberte\nLutemberg\nEveraldo\nPof. Paulo\nLenilton\n\n\n\n\n\nAlexsandro\nJuliana\n\n\n\n\nprodin@reitoria.ifpe.edu.br"
+  }
+]

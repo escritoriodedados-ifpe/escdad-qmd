@@ -1,0 +1,17 @@
+---
+title: "Estrutura"
+format: html
+---
+
+A estrutura organizacional do ESCDAD foi pensado da seguinte forma:
+O Escritório poderá contar com servidores designados pela Reitoria e, quando necessário, com colaboradores externos mediante termos de colaboração técnica organizados nas seguintes setores:
+
+Coordenação do Escritório de Dados
+
+Setor de Dados e Estatística
+
+Setor de Tecnologia
+
+Setor de Governança de Dados e Segurança
+
+Setor de Pesquisa e Inovação

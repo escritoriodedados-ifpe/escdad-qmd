@@ -1,0 +1,53 @@
+---
+pagetitle: "ESCDAD - Escritório de Dados IFPE"
+page-layout: full
+toc: false
+---
+
+::::: hero-banner
+:::: grid
+::: {.g-col-12 .g-col-md-12}
+# Escritório de Dados do IFPE
+
+![](img/inicial.jpg){width="80%" fig-align="center"}
+
+Inteligência institucional, transparência e inovação orientada por dados para apoiar a tomada de decisão no Instituto Federal de Pernambuco.
+
+[Explorar Painéis de Dados](paineis.qmd){.btn .btn-light .btn-lg .mt-2} [Conheça o Escritório](sobre.qmd){.btn .btn-outline-light .btn-lg .mt-2 .ms-2}
+:::
+::::
+:::::
+
+## Pilares de Atuação
+
+::::::::: grid
+:::: {.g-col-12 .g-col-md-4}
+::: card-destaque
+### 📊 Painéis Institucionais
+
+Indicadores acadêmicos, orçamentários e de gestão organizados em visualizações interativas.
+
+[Acessar painéis →](paineis.qmd)
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-4}
+::: card-destaque
+### 🔍 Transparência e Governança
+
+Padronização, qualidade e acesso estratégico às bases de dados vinculadas à PRODIN/IFPE.
+
+[Ver estrutura →](estrutura.qmd)
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-4}
+::: card-destaque
+### 🚀 Projetos e Inovação
+
+Iniciativas de ciência de dados, automação e estudos aplicados à realidade dos campi.
+
+[Ver projetos →](projetos.qmd)
+:::
+::::
+:::::::::

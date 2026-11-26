@@ -1,0 +1,9 @@
+---
+title: "Painel Perfil do ingresso"
+description: "Dados demograficos dos estudantes que ingressam no IFPE"
+categories: [Institucional, estudantes, perfil_social]
+date: "2026-06-20"
+image: ../img/capa-perfil-ingresso.png
+page-layout: full
+toc: false
+---

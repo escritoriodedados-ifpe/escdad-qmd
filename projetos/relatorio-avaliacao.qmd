@@ -1,0 +1,19 @@
+---
+title: "Relatório modelo para pesquisas institucionais"
+description: "Disponibilizar um modelo de relatório as pequisa tipo avaliações."
+categories: [Avaliação,Institucional, Relatórios]
+date: "2026-11-20"
+image: ../img/capa-relatorio-pesquisa.png
+page-layout: full
+toc: false
+---
+
+# 💡A ideia
+
+::: callout-note
+Na elaboração do relatório de avaliação institucional do PGD 2025, o qual foi desenvolvido na prataforma Rstudio a qual permite a conexão com os dados coletados por meio de formulário google e gerar relatório com estruturas pré definidas com gráficos e visualizações em formatos HTML ou PDF.
+
+Assim a area ou setor que utilizou um formulário de pesquisa eletrônica poderá gerar relatório com mais posibilidades de apresentações de gráficos e tabelas.
+
+[acesse aqui](/page/Avaliacao_PGD.html) o trabalho que inspirou a ideia.
+:::

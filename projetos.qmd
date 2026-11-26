@@ -1,0 +1,10 @@
+---
+title: "Novos projetos e estudos"
+subtitle: "no que estamos trabalhando"
+listing:
+  contents: projetos
+  type: grid
+  grid-columns: 3
+  categories: true
+  sort: "date desc"
+---

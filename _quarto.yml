@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "ESCDAD | Escritório de Dados IFPE"
+  favicon: img/icone-dados.png
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    logo: img/logo.png
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Início
+      - href: paineis.qmd
+        text: Painéis de Dados
+      - href: projetos.qmd
+        text: Projetos
+      #- href: eventos.qmd
+      #  text: Eventos
+      - text: Institucional
+        menu:
+          - href: sobre.qmd
+            text: Sobre o ESCDAD
+          - href: estrutura.qmd
+            text: Estrutura
+    right:
+      - href: contato.qmd
+        text: Contato
+      - icon: github
+        href: https://github.com/escritoriodedados-ifpe
+  page-footer:
+    background: light
+    left: "Escritório de Dados (ESCDAD) — Pró-reitoria de Integração e Desenvolvimento Institucional (PRODIN/IFPE)"
+    right:
+      - text: "Portal IFPE"
+        href: https://portal.ifpe.edu.br/
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom.scss]
+    toc: true
+    smooth-scroll: true

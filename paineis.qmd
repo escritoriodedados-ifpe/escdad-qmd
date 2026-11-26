@@ -1,0 +1,10 @@
+---
+title: "Painéis de Dados Institucionais"
+subtitle: "Explore os indicadores e dashboards oficiais do IFPE"
+listing:
+  contents: paineis
+  type: grid
+  grid-columns: 3
+  categories: true
+  sort: "date desc"
+---

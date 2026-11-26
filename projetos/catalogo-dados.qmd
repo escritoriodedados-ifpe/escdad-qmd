@@ -1,0 +1,9 @@
+---
+title: "Catálogo de dados institucionais"
+description: "Mapear e reunir informações sobre os dados da instituição, contendo os metadados dos nossos conjunto de dados."
+categories: [Institucional, conjunto-de-dados, dicionário ]
+date: "2026-11-20"
+image: ../img/capa-catalogo-dados.png
+page-layout: full
+toc: false
+---

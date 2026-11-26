@@ -1,0 +1,11 @@
+---
+title: "Contatos"
+format: html
+---
+
+# Email
+prodin@reitoria.ifpe.edu.br
+escritoriodedados@reitoria.ifpe.edu.br
+
+# Telefone
+(81) 2125-1679

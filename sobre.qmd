@@ -1,0 +1,41 @@
+---
+title: "Sobre o ESCDAD"
+format: html
+---
+
+## Nossa História começa assim,
+
+
+Nos últimos anos, principalmente após a pandemia, tornou-se perceptível o aumento da demanda por dados institucionais integrados. Esse movimento foi impulsionado pelo avanço crescente das novas tecnologias em Big Data e análise de dados.
+
+Nesse sentido, por iniciativa da Prodin, servidores que já trabalhavam com dados de maneira isolada foram convidados a se unir, formando o grupo atualmente denominado Escritório de Dados do IFPE. Ao reconhecer a importância dessa iniciativa, a instituição a tratou como o projeto estratégico "Implantar o Escritório de Dados".
+
+Dessa forma, o setor foi criado oficialmente por meio da [Portaria IFPE nº 1.765](https://boletim.sigepe.gov.br/publicacao/detalhar/318150), de 18 de dezembro de 2024, sendo constituído por uma coordenação, um setor de análise de dados e estatísticas e um setor de Tecnologia da Informação.
+
+Suas atribuições consistem em gerir todo o ciclo de dados institucionais do IFPE, desde a coleta e o controle de acesso legal até a criação de relatórios, indicadores e a manutenção do Plano de Dados Abertos. Além disso, o escritório visa fortalecer a cultura orientada por dados na instituição por meio de suporte técnico, capacitação de servidores, pesquisas e parcerias para apoiar a tomada de decisões e o desenvolvimento de políticas baseadas em evidências.
+
+
+
+### Nosso time atual
+
+- Jouberte
+
+- Lutemberg
+
+- Everaldo
+
+- Pof. Paulo
+
+- Lenilton
+
+
+### Quem já fez historia conosco
+
+- Alexsandro
+
+- Juliana
+
+
+### você ficou interessado entre em contato conosco e faça parte dessa história!?!
+
+prodin\@reitoria.ifpe.edu.br
