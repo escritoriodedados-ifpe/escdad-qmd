@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-06-20">
+<meta name="dcterms.date" content="2026-11-26">
 <meta name="description" content="Dados demograficos dos estudantes que ingressam no IFPE">
 
-<title>Painel Perfil do ingresso – ESCDAD | Escritório de Dados IFPE</title>
+<title>Painel Perfil do Ingresso – ESCDAD | Escritório de Dados IFPE</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -320,7 +320,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Painel Perfil do ingresso</h1>
+<h1 class="title">Painel Perfil do Ingresso</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Institucional</div>
     <div class="quarto-category">estudantes</div>
@@ -341,7 +341,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 20, 2026</p>
+      <p class="date">November 26, 2026</p>
     </div>
   </div>
   
@@ -353,6 +353,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="d-flex justify-content-between align-items-center mb-3">
+<p>Explore os dados interativos abaixo utilizando os filtros.</p>
+<p><a href="https://datastudio.google.com:/embed/reporting/18fac874-1714-4360-adcf-66b4b6045ed7/page/1p1rF" class="btn btn-outline-primary btn-sm" target="_blank">Abrir em tela cheia ↗</a></p>
+</div>
+<div class="ratio" style="--bs-aspect-ratio: 62%;">
+<iframe src="https://datastudio.google.com:/embed/reporting/18fac874-1714-4360-adcf-66b4b6045ed7/page/1p1rF" frameborder="0" style="border: 1px solid #dee2e6; border-radius: 0.5rem;" allowfullscreen="" sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+</iframe>
+</div>
 
 
 
@@ -443,7 +451,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/escritoriodedados-ifpe\.github\.io\/escdad-qmd\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

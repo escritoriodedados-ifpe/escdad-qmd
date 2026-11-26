@@ -25,7 +25,7 @@
     "href": "paineis.html",
     "title": "Painéis de Dados Institucionais",
     "section": "",
-    "text": "Painel IFPE em Números\n\n\n\nInstitucional\n\nIndicadores\n\nPNP\n\n\n\nIndicadores institucionais consolidados dos campi do Instituto Federal de Pernambuco na PNP.\n\n\n\n\n\n\nNov 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPainel Perfil do ingresso\n\n\n\nInstitucional\n\nestudantes\n\nperfil_social\n\n\n\nDados demograficos dos estudantes que ingressam no IFPE\n\n\n\n\n\n\nJun 20, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Painel Perfil do Ingresso\n\n\n\nInstitucional\n\nestudantes\n\nperfil_social\n\n\n\nDados demograficos dos estudantes que ingressam no IFPE\n\n\n\n\n\n\nNov 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPainel IFPE em Números\n\n\n\nInstitucional\n\nIndicadores\n\nPNP\n\n\n\nIndicadores institucionais consolidados dos campi do Instituto Federal de Pernambuco na PNP.\n\n\n\n\n\n\nNov 20, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "paineis/ifpe-em-numeros.html",
@@ -75,6 +75,13 @@
     "title": "Escritório de Dados do IFPE",
     "section": "Pilares de Atuação",
     "text": "Pilares de Atuação\n\n\n\n📊 Painéis Institucionais\nIndicadores acadêmicos, orçamentários e de gestão organizados em visualizações interativas.\nAcessar painéis →\n\n\n\n\n🔍 Transparência e Governança\nPadronização, qualidade e acesso estratégico às bases de dados vinculadas à PRODIN/IFPE.\nVer estrutura →\n\n\n\n\n🚀 Projetos e Inovação\nIniciativas de ciência de dados, automação e estudos aplicados à realidade dos campi.\nVer projetos →"
+  },
+  {
+    "objectID": "paineis/perfil-ingresso.html",
+    "href": "paineis/perfil-ingresso.html",
+    "title": "Painel Perfil do Ingresso",
+    "section": "",
+    "text": "Explore os dados interativos abaixo utilizando os filtros.\nAbrir em tela cheia ↗"
   },
   {
     "objectID": "projetos.html",
